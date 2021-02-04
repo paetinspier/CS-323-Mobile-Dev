@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Burger App</string>
+    <string name="beef_patty">Beef Patty</string>
+    <string name="lamb_patty">Lamb Patty</string>
+    <string name="ostrich_patty">Ostrich Patty</string>
+    <string name="title">Dad\'s Burgers</string>
+    <string name="prosciutto">Prosciutto</string>
+    <string name="asiago">Asiago Cheese</string>
+    <string name="creme_friache">Creme Friache</string>
+    <string name="caviar">Caviar sauce up to one teaspoon:</string>
+</resources>

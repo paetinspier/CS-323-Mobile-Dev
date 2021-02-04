@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoffeeOrderApp</string>
+    <string name="choose_toppings">Choose Toppings:</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="cream">Cream</string>
+    <string name="quantity">Quantity</string>
+    <string name="zero">0</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="order">Order</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="whipped_cream">Whipped Cream</string>
+</resources>
